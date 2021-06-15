@@ -1,0 +1,13 @@
+D:\VisualStudio\source\repos\RandomGuessOOP\RandomGuessOOP\bin\Debug\netcoreapp3.1\RandomGuessOOP.exe
+D:\VisualStudio\source\repos\RandomGuessOOP\RandomGuessOOP\bin\Debug\netcoreapp3.1\RandomGuessOOP.deps.json
+D:\VisualStudio\source\repos\RandomGuessOOP\RandomGuessOOP\bin\Debug\netcoreapp3.1\RandomGuessOOP.runtimeconfig.json
+D:\VisualStudio\source\repos\RandomGuessOOP\RandomGuessOOP\bin\Debug\netcoreapp3.1\RandomGuessOOP.runtimeconfig.dev.json
+D:\VisualStudio\source\repos\RandomGuessOOP\RandomGuessOOP\bin\Debug\netcoreapp3.1\RandomGuessOOP.dll
+D:\VisualStudio\source\repos\RandomGuessOOP\RandomGuessOOP\bin\Debug\netcoreapp3.1\RandomGuessOOP.pdb
+D:\VisualStudio\source\repos\RandomGuessOOP\RandomGuessOOP\obj\Debug\netcoreapp3.1\RandomGuessOOP.csproj.AssemblyReference.cache
+D:\VisualStudio\source\repos\RandomGuessOOP\RandomGuessOOP\obj\Debug\netcoreapp3.1\RandomGuessOOP.AssemblyInfoInputs.cache
+D:\VisualStudio\source\repos\RandomGuessOOP\RandomGuessOOP\obj\Debug\netcoreapp3.1\RandomGuessOOP.AssemblyInfo.cs
+D:\VisualStudio\source\repos\RandomGuessOOP\RandomGuessOOP\obj\Debug\netcoreapp3.1\RandomGuessOOP.csproj.CoreCompileInputs.cache
+D:\VisualStudio\source\repos\RandomGuessOOP\RandomGuessOOP\obj\Debug\netcoreapp3.1\RandomGuessOOP.dll
+D:\VisualStudio\source\repos\RandomGuessOOP\RandomGuessOOP\obj\Debug\netcoreapp3.1\RandomGuessOOP.pdb
+D:\VisualStudio\source\repos\RandomGuessOOP\RandomGuessOOP\obj\Debug\netcoreapp3.1\RandomGuessOOP.genruntimeconfig.cache
